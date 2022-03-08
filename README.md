@@ -1,5 +1,5 @@
 # Echo-State-Network
-Just a sample implementation by Julia.
+Just a sample implementation of Echo State Network by using Julia language.
 
 You can set the number to be larger than one for obtaining a DeepESN.
 
